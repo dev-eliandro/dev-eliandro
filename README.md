@@ -1,13 +1,11 @@
 # Olá Pessoal! :vulcan_salute:
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Sou um especialista versátil que une a arte do design à precisão do desenvolvimento de software. Como Designer UI/UX, minha paixão está em criar interfaces cativantes e experiências de usuário intuitivas. Desde a pesquisa inicial até a prototipagem e testes de usabilidade, dedico-me a entender profundamente as necessidades do usuário para oferecer designs esteticamente atraentes e funcionalmente eficazes.
 
 ## :point_right: Para me encontrar:
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/jesscoderoficial)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jess.coder/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicamedeirospocarli/)
-<a href="mailto:jessicamedeirosp96@gmail.com">
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/creativedesignaraucaria/)
+<a href="mailto:eliandrosucesso@gmail.com">
 <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
 </a>
 
