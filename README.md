@@ -17,6 +17,6 @@ Sou um especialista versátil que une a arte do design à precisão do desenvolv
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry - Lorem Ipsum
+> Sou apaixonado pela tecnologia em geral e estou sempre buscando maneiras de me atualizar com tudo que posso aprender!
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-eliandro&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
